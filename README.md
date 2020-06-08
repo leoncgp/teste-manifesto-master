@@ -1,2 +1,2 @@
 # teste-manifesto-master
-Manifesot Teste
+Manifesto Test
