@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\pichau\desktop\teste-manifesto-master\teste-manifesto-master\main.cpp(74): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pichau\desktop\teste-manifesto-master\teste-manifesto-master\main.cpp(107): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pichau\desktop\teste-manifesto-master\teste-manifesto-master\main.cpp(113): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pichau\desktop\teste-manifesto-master\teste-manifesto-master\main.cpp(165): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pichau\desktop\teste-manifesto-master\teste-manifesto-master\main.cpp(362): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\pichau\desktop\teste-manifesto-master\teste-manifesto-master\main.cpp(394): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Gerando código
+  1 of 332 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  teste-manifesto-master.vcxproj -> C:\Users\Pichau\Desktop\teste-manifesto-master\Release\teste-manifesto-master.exe
